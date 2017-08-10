@@ -1,0 +1,1 @@
+Spring Config server - pulling data from local - with default as the profile. As local only allows default profile.
